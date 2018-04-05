@@ -6,13 +6,13 @@
  * 
  */
  void setup() {
-  print("M     M  IIII   NN      N  HHHH HHHH");
-  print("MM   MM   II    N N     N   HH   HH ");
-  print("M M M M   II    N  N    N   HH   HH ");
-  print("M  M  M   II    N   N   N   HHHHHHH ");
-  print("M     M   II    N    N  N   HH   HH ");
-  print("M     M   II    N     N N   HH   HH ");
-  print("M     M  IIII   N      NN  HHHH HHHH");
+  print("MM       MM  IIII   NNN     NN  HHHH HHHH");
+  print("MMMM   MMMM   II    NNNN    NN   HH   HH ");
+  print("MM MM MM MM   II    NN NN   NN   HH   HH ");
+  print("MM  MM   MM   II    NN  NN  NN   HHHHHHH ");
+  print("MM       MM   II    NN   NN NN   HH   HH ");
+  print("MM       MM   II    NN    NNNN   HH   HH ");
+  print("MM       MM  IIII   NN     NNN  HHHH HHHH");
 }
 
 void draw() {
