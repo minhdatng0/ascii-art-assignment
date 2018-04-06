@@ -13,6 +13,23 @@
   println("MM        MM   II    NN   NN NN    HH   HH ");
   println("MM        MM   II    NN    NNNN    HH   HH ");
   println("MM        MM  IIII   NN     NNN   HHHH HHHH");
+  println(" ------       _______    |||  ");
+  println("/ 0 0  \\     / |   | \\   |||  ");
+  println("|  =3  |    /__O___O__\\  |||  ");
+  println("| l l  |     |   _   |   |||  ");
+  println("/______\\     |__|_|__|   |||  ");
+  println(" ");  
+  println(" ");
+  println(" ");
+  println(" ");
+  println(" ");
+  println(" ");
+  println(" ");
+  println(" ");
+  println(" ");
+  println(" ");
+  println(" ");
+  
 }
 
 void draw() {
