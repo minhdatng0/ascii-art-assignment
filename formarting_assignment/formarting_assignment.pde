@@ -15,6 +15,7 @@
     int team1Losses = 11;
     int team2Losses = 6;
     int team3Losses = 14;
+    println ("Team" + "\t" + "Wins" + "\t" + "Losses" + "\t" + "Points");
    
    
    
