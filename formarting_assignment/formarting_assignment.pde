@@ -12,6 +12,9 @@
     int team1Wins = 5;
     int team2Wins = 10;
     int team3Wins = 2;
+    int team1Losses = 11;
+    int team2Losses = 6;
+    int team3Losses = 14;
    
    
    
