@@ -6,12 +6,12 @@
  * Formarting text output
  */
  void setup(){
-   String team1name = "BlueWhale";
-   println(team1name);
-   String team2name = "RedWhale";
-   println(team2name);
-   String team3name = "WhiteWhale";
-   println(team3name);
+    String team1name = "BlueWhale";
+    String team2name = "RedWhale";
+    String team3name = "WhiteWhale";
+    int team1Wins = 5;
+    int team2Wins = 10;
+    int team3Wins = 2;
    
    
    
