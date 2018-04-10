@@ -6,9 +6,8 @@
  * Formarting text output
  */
  void setup(){
-   String str1 = "team1name";
-   println(str1);
-   
+   String team1name = "BlueWhale";
+   println(team1name);
    
    
    
