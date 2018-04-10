@@ -10,6 +10,8 @@
    println(team1name);
    String team2name = "RedWhale";
    println(team2name);
+   String team3name = "WhiteWhale";
+   println(team3name);
    
    
    
