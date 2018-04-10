@@ -19,7 +19,7 @@
     int team2points = team2wins*2;
     int team3points = team3wins*2;
     println ("Team" + "\t" + "Wins" + "\t" + "Losses" + "\t" + "Points");
-   
+    println (team1name + "\t" + team1wins + "\t" + team1losses + "\t" + team1points );
    
    
    
