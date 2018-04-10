@@ -8,6 +8,8 @@
  void setup(){
    String team1name = "BlueWhale";
    println(team1name);
+   String team2name = "RedWhale";
+   println(team2name);
    
    
    
